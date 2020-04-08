@@ -24,9 +24,6 @@ class MainActivity : AppCompatActivity() {
                     .setAction("Action", null).show()
         }
 
-
-
-        println("Hello world")
         printEnvironment()
     }
 
